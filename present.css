@@ -1,7 +1,7 @@
 html,
 body {
 	margin: 0;
-	background: url("images/cover8.jpg") no-repeat center center;
+	background: url("images/cover6.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -251,5 +251,5 @@ body {
 	visibility: hidden;
 	opacity: 0;
 	transition: visibility 0s, opacity 0.5s linear;
-	overflow: hidden;
+	overflow: auto;
 }
